@@ -1,4 +1,4 @@
-use customer_segment;
+use project4_week4_sql;
 select * from marketing_campaign;
 
 UPDATE marketing_campaign
@@ -49,20 +49,20 @@ DROP COLUMN Z_Revenue;
 ALTER TABLE marketing_campaign
 DROP COLUMN Response;
 
-alter table marketing_campaign
-rename column MntWines to Amount_wines;
+ALTER TABLE marketing_campaign
+rename column Amount_wines to Wine_products_spending;
 
-alter table marketing_campaign
-rename column MntFruits to Amount_fruits;
+ALTER TABLE marketing_campaign
+rename column Amount_fruits to Fruits_products_spending;
 
-alter table marketing_campaign
-rename column MntMeatProducts to Amount_meat_products;
+ALTER TABLE marketing_campaign
+rename column Amount_meat_products to Meat_products_spending;
 
-alter table marketing_campaign
-rename column MntFishProducts to Amount_fish_products;
+ALTER TABLE marketing_campaign
+rename column Amount_fish_products to Fish_products_spending;
 
-alter table marketing_campaign
-rename column MntSweetProducts to Amount_sweet_products;
+ALTER TABLE marketing_campaign
+rename column Amount_sweet_products to Sweet_products_spending;
 
 SELECT *
 FROM marketing_campaign;
