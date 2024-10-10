@@ -1,4 +1,4 @@
-use project4_week4_sql;
+use customer_segment;
 select * from marketing_campaign;
 
 UPDATE marketing_campaign
