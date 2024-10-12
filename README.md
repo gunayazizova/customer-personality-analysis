@@ -24,7 +24,7 @@ Recent customers are more likely to engage in future purchases and should be tar
 - Presentation link: https://drive.google.com/drive/folders/156T1bCt9qYJ2yniZfn93VttmJ6T8ypqi
 - Kaggle Data set link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
-## 📽️ Data Cleaning and Wrangling
+## Data Cleaning and Wrangling
 - Dataset was clean on SQL for the most part
 - The cleaning was oriented towards: Column renaming, dropping off unecessary columns, dealing with null values
 - Additional minor cleaning has been made for each hypothesis on Python
