@@ -1,4 +1,4 @@
-RecencySegment,AvgWebPurchases,AvgCatalogPurchases,AvgStorePurchases,TotalWebPurchases,TotalCatalogPurchases,TotalStorePurchases
-Recent,4.0576,2.6102,5.7695,2394,1540,3404
-"Very Recent",4.1846,2.6554,5.8585,2720,1726,3808
-Older,4.1057,2.8119,5.8389,3186,2182,4531
+RecencySegment,WebPurchasesPercentage,CatalogPurchasesPercentage,StorePurchasesPercentage
+Recent,32.6247,20.9866,46.3887
+"Very Recent",32.9537,20.9111,46.1352
+Older,32.1851,22.0426,45.7723
