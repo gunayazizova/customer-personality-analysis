@@ -17,20 +17,20 @@ There is a significant difference in purchasing habits across different customer
 **H2:**
 Recent customers are more likely to engage in future purchases and should be targeted in upcoming marketing campaigns.
 
-**Prerequisites**</br>
+**Prerequisites** </br>
 - SQL Project</br>
 - Github repository link: https://github.com/Marc-Bouche/sql-database</br>
 - Trello link: https://trello.com/b/d8z0MUYL/project4week4sql</br>
 - Presentation link: https://drive.google.com/drive/folders/156T1bCt9qYJ2yniZfn93VttmJ6T8ypqi</br>
 - Kaggle Data set link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis</br>
 
-**Data Cleaning and Wrangling**</br>
+**Data Cleaning and Wrangling** </br>
 - Dataset was clean on SQL for the most part</br>
 - The cleaning was oriented towards: Column renaming, dropping off unecessary columns, dealing with null values</br>
 - Additional minor cleaning has been made for each hypothesis on Python</br>
 </br>
 </br>
-**Project Process and Structure**</br>
+**Project Process and Structure** </br>
 </br>
 1.Topic selection</br>
 2.Data Acquisition: 'Customer personality analysis' set on Kaggle</br>
@@ -44,7 +44,7 @@ Data Cleaning: Address any missing values, inconsistencies, or errors in the dat
 10.Project Communication: Compile results into a clear and concise presentation using Google Slides.</br>
 </br>
 </br>
-**Github structure**</br>
+**Github structure** </br>
 </br>
 -README.md: Describes what the project is, how it is structured.</br>
 -marketing_campaign.csv: How the raw data file from kaggle looks.</br>
