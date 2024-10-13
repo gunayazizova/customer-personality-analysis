@@ -18,28 +18,28 @@ There is a significant difference in purchasing habits across different customer
 Recent customers are more likely to engage in future purchases and should be targeted in upcoming marketing campaigns.
 
 **Prerequisites**
-- SQL Project
-- Github repository link: https://github.com/Marc-Bouche/sql-database
-- Trello link: https://trello.com/b/d8z0MUYL/project4week4sql
-- Presentation link: https://drive.google.com/drive/folders/156T1bCt9qYJ2yniZfn93VttmJ6T8ypqi
-- Kaggle Data set link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+- SQL Project</br>
+- Github repository link: https://github.com/Marc-Bouche/sql-database</br>
+- Trello link: https://trello.com/b/d8z0MUYL/project4week4sql</br>
+- Presentation link: https://drive.google.com/drive/folders/156T1bCt9qYJ2yniZfn93VttmJ6T8ypqi</br>
+- Kaggle Data set link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis</br>
 
 **Data Cleaning and Wrangling**
-- Dataset was clean on SQL for the most part
-- The cleaning was oriented towards: Column renaming, dropping off unecessary columns, dealing with null values
-- Additional minor cleaning has been made for each hypothesis on Python
+- Dataset was clean on SQL for the most part</br>
+- The cleaning was oriented towards: Column renaming, dropping off unecessary columns, dealing with null values</br>
+- Additional minor cleaning has been made for each hypothesis on Python</br>
 
 **Project Process and Strucrure**
-1.Topic selection
-2.Data Acquisition: 'Customer personality analysis' set on Kaggle
-3.Data Ingestion: Upload the data frame file into a SQL database for further analysis.
-4.Data Exploration: Carefully examine the data to understand its structure, characteristics, and potential issues.
-Data Cleaning: Address any missing values, inconsistencies, or errors in the data to ensure its accuracy.
-6.Formulate Business Question and Hypothesis
-7.Data Transformation: Utilize SQL operations to create insightful tables based on your hypothesis
-8.Data Export: Export the transformed tables as CSV files for further analysis in other tools.
-9.Data Visualization and Analysis: Use Python libraries and Tableau to create visualizations that effectively communicate findings and insights.
-10.Project Communication: Compile results into a clear and concise presentation using Google Slides.
+1.Topic selection</br>
+2.Data Acquisition: 'Customer personality analysis' set on Kaggle</br>
+3.Data Ingestion: Upload the data frame file into a SQL database for further analysis.</br>
+4.Data Exploration: Carefully examine the data to understand its structure, characteristics, and potential issues.</br>
+Data Cleaning: Address any missing values, inconsistencies, or errors in the data to ensure its accuracy.</br>
+6.Formulate Business Question and Hypothesis</br>
+7.Data Transformation: Utilize SQL operations to create insightful tables based on your hypothesis</br>
+8.Data Export: Export the transformed tables as CSV files for further analysis in other tools.</br>
+9.Data Visualization and Analysis: Use Python libraries and Tableau to create visualizations that effectively communicate findings and insights.</br>
+10.Project Communication: Compile results into a clear and concise presentation using Google Slides.</br>
 
 **Github structure**
 -README.md: Describes what the project is, how it is structured.
