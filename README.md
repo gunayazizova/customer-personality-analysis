@@ -44,7 +44,7 @@ Data Cleaning: Address any missing values, inconsistencies, or errors in the dat
 10.Project Communication: Compile results into a clear and concise presentation using Google Slides.</br>
 </br>
 </br>
-**Github structure**  
+**Github structure**</br>
 </br>
 -README.md: Describes what the project is, how it is structured.</br>
 -marketing_campaign.csv: How the raw data file from kaggle looks.</br>
