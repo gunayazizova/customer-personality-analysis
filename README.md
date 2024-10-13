@@ -29,7 +29,9 @@ Recent customers are more likely to engage in future purchases and should be tar
 - The cleaning was oriented towards: Column renaming, dropping off unecessary columns, dealing with null values</br>
 - Additional minor cleaning has been made for each hypothesis on Python</br>
 </br>
-**Project Process and Strucrure**</br>
+</br>
+**Project Process and Structure**</br>
+</br>
 1.Topic selection</br>
 2.Data Acquisition: 'Customer personality analysis' set on Kaggle</br>
 3.Data Ingestion: Upload the data frame file into a SQL database for further analysis.</br>
@@ -41,7 +43,9 @@ Data Cleaning: Address any missing values, inconsistencies, or errors in the dat
 9.Data Visualization and Analysis: Use Python libraries and Tableau to create visualizations that effectively communicate findings and insights.</br>
 10.Project Communication: Compile results into a clear and concise presentation using Google Slides.</br>
 </br>
+</br>
 **Github structure**</br>
+</br>
 -README.md: Describes what the project is, how it is structured.</br>
 -marketing_campaign.csv: How the raw data file from kaggle looks.</br>
 -cleaned_data.sql: How the data looks after cleaning.</br>
