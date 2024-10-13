@@ -30,7 +30,7 @@ Recent customers are more likely to engage in future purchases and should be tar
 - Additional minor cleaning has been made for each hypothesis on Python</br>
 </br>
 </br>
-**Project Process and Structure**  
+**Project Process and Structure** </br>
 </br>
 1.Topic selection</br>
 2.Data Acquisition: 'Customer personality analysis' set on Kaggle</br>
