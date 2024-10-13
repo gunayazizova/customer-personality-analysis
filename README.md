@@ -41,7 +41,7 @@ Data Cleaning: Address any missing values, inconsistencies, or errors in the dat
 9.Data Visualization and Analysis: Use Python libraries and Tableau to create visualizations that effectively communicate findings and insights.
 10.Project Communication: Compile results into a clear and concise presentation using Google Slides.
 
-**## Github structure**
+**Github structure**
 -README.md: Describes what the project is, how it is structured.
 -marketing_campaign.csv: How the raw data file from kaggle looks.
 -cleaned_data.sql: How the data looks after cleaning.
