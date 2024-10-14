@@ -11,7 +11,7 @@ Customer Personality Analysis is a detailed analysis of a company’s ideal cust
 - Purchase habits
 - Purchase channels
 
-**H1:**
+##H1:
 There is a significant difference in purchasing habits across different customer segments.
 
 **H2:**
