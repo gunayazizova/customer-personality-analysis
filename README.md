@@ -1,6 +1,6 @@
 # Customer Personality Analysis
 
-**Description**
+### Description
 
 We have selected a data set from Kaggle.
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
@@ -18,6 +18,7 @@ There is a significant difference in purchasing habits across different customer
 Recent customers are more likely to engage in future purchases and should be targeted in upcoming marketing campaigns.
 
 ## Prerequisites </br>
+
 - SQL Project</br>
 - Github repository link: https://github.com/Marc-Bouche/sql-database</br>
 - Trello link: https://trello.com/b/d8z0MUYL/project4week4sql</br>
@@ -25,12 +26,13 @@ Recent customers are more likely to engage in future purchases and should be tar
 - Kaggle Data set link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis</br>
 
 ## Data Cleaning and Wrangling  </br>
+
 - Dataset was clean on SQL for the most part</br>
 - The cleaning was oriented towards: Column renaming, dropping off unecessary columns, dealing with null values</br>
 - Additional minor cleaning has been made for each hypothesis on Python</br>
 
 ## Project Process and Structure </br>
-</br>
+
 1. Topic selection</br>
 2. Data Acquisition: 'Customer personality analysis' set on Kaggle</br>
 3. Data Ingestion: Upload the data frame file into a SQL database for further analysis.</br>
@@ -42,8 +44,8 @@ Recent customers are more likely to engage in future purchases and should be tar
 9. Data Visualization and Analysis: Use Python libraries and Tableau to create visualizations that effectively communicate findings and insights.</br>
 10. Project Communication: Compile results into a clear and concise presentation using Google Slides.</br>
 
-## Github structure </br>
-</br>
+## Github Structure </br>
+
 - README.md: Describes what the project is, how it is structured.</br>
 - marketing_campaign.csv: How the raw data file from kaggle looks.</br>
 - cleaned_data.sql: How the data looks after cleaning.</br>
