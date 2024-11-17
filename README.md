@@ -19,7 +19,7 @@ Recent customers are more likely to engage in future purchases and should be tar
 
 **Prerequisites** </br>
 - SQL Project</br>
-- Github repository link: https://github.com/Marc-Bouche/sql-database</br>
+- Github repository link:https://github.com/gunayazizova/customer-personality-analysis
 - Trello link: https://trello.com/b/d8z0MUYL/project4week4sql</br>
 - Presentation link: https://drive.google.com/drive/folders/156T1bCt9qYJ2yniZfn93VttmJ6T8ypqi</br>
 - Kaggle Data set link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis</br>
