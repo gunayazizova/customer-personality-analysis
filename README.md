@@ -1,58 +1,87 @@
-# Customer Personality Analysis
+# 📊 Customer Personality Analysis
 
-**Description**
+## Description
 
-We have selected a data set from Kaggle.
-Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+We selected a dataset from Kaggle to analyze customer personalities, helping businesses understand their ideal customers. This analysis provides insights into customer demographics, purchase behavior, and preferences, allowing businesses to tailor their offerings more effectively.
 
-- Demographic data
-- Purchase channels
-- Purchase amount
-- Purchase habits
-- Purchase channels
+> **Note**: Please note that this dataset was used for educational purposes, and the findings and insights derived from this analysis should not be considered applicable to real-world scenarios.
 
-**H1:**
+Key focus areas include:
+- **Demographic Data**
+- **Purchase Channels**
+- **Purchase Amount**
+- **Purchase Habits**
+
+### Key Insights:
+
+#### 🔍 H1:
 There is a significant difference in purchasing habits across different customer segments.
 
-**H2:**
+#### 📈 H2:
 Recent customers are more likely to engage in future purchases and should be targeted in upcoming marketing campaigns.
 
-**Prerequisites** </br>
-- SQL Project</br>
-- Github repository link:https://github.com/gunayazizova/customer-personality-analysis
-- Trello link: https://trello.com/b/d8z0MUYL/project4week4sql</br>
-- Presentation link: https://drive.google.com/drive/folders/156T1bCt9qYJ2yniZfn93VttmJ6T8ypqi</br>
-- Kaggle Data set link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis</br>
+---
 
-**Data Cleaning and Wrangling** </br>
-- Dataset was clean on SQL for the most part</br>
-- The cleaning was oriented towards: Column renaming, dropping off unecessary columns, dealing with null values</br>
-- Additional minor cleaning has been made for each hypothesis on Python</br>
-</br>
-</br>
-**Project Process and Structure** </br>
-</br>
-1.Topic selection</br>
-2.Data Acquisition: 'Customer personality analysis' set on Kaggle</br>
-3.Data Ingestion: Upload the data frame file into a SQL database for further analysis.</br>
-4.Data Exploration: Carefully examine the data to understand its structure, characteristics, and potential issues.</br>
-Data Cleaning: Address any missing values, inconsistencies, or errors in the data to ensure its accuracy.</br>
-6.Formulate Business Question and Hypothesis</br>
-7.Data Transformation: Utilize SQL operations to create insightful tables based on your hypothesis</br>
-8.Data Export: Export the transformed tables as CSV files for further analysis in other tools.</br>
-9.Data Visualization and Analysis: Use Python libraries and Tableau to create visualizations that effectively communicate findings and insights.</br>
-10.Project Communication: Compile results into a clear and concise presentation using Google Slides.</br>
-</br>
-</br>
-**Github structure**</br>
-</br>
--README.md: Describes what the project is, how it is structured.</br>
--marketing_campaign.csv: How the raw data file from kaggle looks.</br>
--cleaned_data.sql: How the data looks after cleaning.</br>
--H1.sql: how did we approach hypothesis 1, which insights were selected and how we displayed it in new tables.</br>
--H2.sql: how did we approach hypothesis 2, which insights were selected and how we displayed it in new tables.</br>
--Visualization_H1.ipynb: Additional small cleaning and vizualization for Hypothesis 1 based on tables built in SQL.</br>
--Visualization_H2.ipynb: Additional small cleaning and vizualization for Hypothesis 2 based on tables built in SQL.</br>
+## 🔧 Prerequisites
 
+- **SQL Project**: [Project Repo](https://github.com/Marc-Bouche/sql-database)
+- **Trello Board**: [Project Trello](https://trello.com/b/d8z0MUYL/project4week4sql)
+- **Presentation**: [Google Drive Folder](https://drive.google.com/drive/folders/156T1bCt9qYJ2yniZfn93VttmJ6T8ypqi)
+- **Kaggle Dataset**: [Customer Personality Analysis Dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
+---
 
+## 🧹 Data Cleaning and Wrangling
+
+The dataset was cleaned primarily using **SQL**. The cleaning process focused on the following:
+- Renaming columns for clarity
+- Dropping unnecessary columns
+- Handling null values
+
+Additionally, **Python** was used for minor cleaning and data transformation related to the hypotheses.
+
+---
+
+## 🔄 Project Process and Structure
+
+The project followed a structured approach to ensure a clear analysis:
+
+1. **Topic Selection**: Identifying the customer segmentation analysis as the focus.
+2. **Data Acquisition**: Downloading the "Customer Personality Analysis" dataset from Kaggle.
+3. **Data Ingestion**: Uploading the dataset into a SQL database for further manipulation.
+4. **Data Exploration**: Examining the data to understand its structure and characteristics.
+5. **Data Cleaning**: Resolving issues such as missing values and inconsistencies in the data.
+6. **Formulate Business Questions and Hypotheses**: Framing business questions that drive the analysis.
+7. **Data Transformation**: Using SQL queries to create insightful tables for analysis.
+8. **Data Export**: Exporting transformed tables as CSV files for use in other tools.
+9. **Data Visualization & Analysis**: Creating visualizations using Python libraries and Tableau to communicate the findings.
+10. **Project Communication**: Presenting the results through a Google Slides presentation.
+
+---
+
+## 📂 GitHub Structure
+
+The project repository contains the following files:
+
+- **README.md**: Provides an overview of the project and its structure.
+- **marketing_campaign.csv**: Raw dataset from Kaggle.
+- **cleaned_data.sql**: SQL script containing the cleaned dataset.
+- **H1.sql**: SQL queries used for Hypothesis 1, including insights and table generation.
+- **H2.sql**: SQL queries used for Hypothesis 2, including insights and table generation.
+- **visualization_H1.ipynb**: Jupyter notebook for additional cleaning and visualization related to Hypothesis 1.
+- **visualization_H2.ipynb**: Jupyter notebook for additional cleaning and visualization related to Hypothesis 2.
+
+---
+
+## How to Run
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Marc-Bouche/sql-database
+    ```
+
+2. Set up the database using the `cleaned_data.sql` file.
+
+3. Explore the datasets using SQL queries, or use the provided Jupyter notebooks (`visualization_H1.ipynb` and `visualization_H2.ipynb`) for further analysis and visualization.
+
+4. For visualizations, you can use Python libraries like Matplotlib, Seaborn, or Tableau for more advanced plots.
