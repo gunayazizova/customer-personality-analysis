@@ -4,7 +4,7 @@
 
 We selected a dataset from Kaggle to analyze customer personalities, helping businesses understand their ideal customers. This analysis provides insights into customer demographics, purchase behavior, and preferences, allowing businesses to tailor their offerings more effectively.
 
-> **Note**: Please note that this dataset was created for educational purposes, and the findings and insights derived from this analysis should not be considered applicable to real-world scenarios.
+> **Note**: Please note that this dataset was used for educational purposes, and the findings and insights derived from this analysis should not be considered applicable to real-world scenarios.
 
 Key focus areas include:
 - **Demographic Data**
